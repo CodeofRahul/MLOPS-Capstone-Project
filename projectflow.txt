@@ -52,7 +52,7 @@ create bucket ==> Go to S3 service >> Create bucket >> Region: us-east-1 >> Gene
 31. Add .github/workflows/ci.yaml file
 
 32. Create key token on Dagshub for auth: Go to dagshub repo > Your settings > Tokens > Generate new token
-    >> Please make sure to save token << >> capstone_test: 54b1d67648a9b1267ef906fsdfsd8b292f779f0<<
+    >> Please make sure to save token << >> capstone_test: 147743452bc70cb1e05163928214dc8a27634af9<<
     >> Add this auth token to github secret&var and update on ci file
 
 
